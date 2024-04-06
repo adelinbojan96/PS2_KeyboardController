@@ -4,4 +4,3 @@ The binary code received from the keyboard will be transformed into the correspo
 
 
 
-![PS2_Keyboard](https://github.com/adelinbojan96/PS2_KeyboardController/assets/113366480/898eae3c-30b2-4a53-9b35-17af5c12009e)
